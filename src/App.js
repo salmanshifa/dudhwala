@@ -42,7 +42,7 @@ class Content extends React.Component {
       <div class="col-sm-9">
         <h4><small>RECENT POSTS</small></h4>
         <hr/>
-        <h2>I Love Indian Product</h2>
+        <h2>I Love Indian Product temp</h2>
       </div>
      );
   }
