@@ -40,7 +40,7 @@ class Content extends React.Component {
   render() {
      return (
       <div class="col-sm-9">
-        <h4><small>RECENT POSTS</small></h4>
+        <h4><small>RECENT POSTS gfgfgfg</small></h4>
         <hr/>
         <h2>I Love Indian Product</h2>
       </div>
